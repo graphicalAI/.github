@@ -1,0 +1,9 @@
+blank_issues_enabled: false
+
+contact_links:
+  - name: "📊 Доска проектов GraphNet"
+    url: "https://github.com/orgs/graphicalAI/projects/3"
+    about: "Просмотр текущих задач и статусов команды"
+  - name: "💬 Чат команды"
+    url: "https://t.me/your_chat_link"
+    about: "Связь с Георгием и обсуждение вопросов по стажировке"
